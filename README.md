@@ -4,6 +4,8 @@
 ### 序、主页展示
 ![image](syzoj_introduction.png)
 
+demo: [点此进入](http://loj.shaoxiaoj.top)。
+
 ### 一、准备工作
 - 有属于自己的服务器（推荐阿里云服务器,内存2核2G以上）
 - 知道 Linux 基础语法
