@@ -46,7 +46,7 @@ apt install -y nginx
 rm -rf /opt/syzoj /etc/systemd/system/syzoj*
 mkdir -p /opt/syzoj
 cd /opt/syzoj
-git clone https://github.com/syzoj/syzoj web
+git clone https://bgithub.xyz/syzoj/syzoj web
 cd web
 yarn
 ````
